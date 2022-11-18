@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+}
+
+#app{
+    height: 100vh;
+}
+
+.el-menu{
+    border-right:none !important;
+}
+
+.el-header{
+    padding: 0 !important;
+}
+
+.el-aside {
+    width: 250px;
+}
+
+
+:root{
+    --el-menu-base-level-padding: 24px;
+    --el-menu-level-padding: 24px;
+    --el-menu-item-font-size: 14px;
+    --el-menu-item-height: 40px;
+}
